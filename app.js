@@ -4,7 +4,7 @@ import { render } from 'react-dom';
 const App = React.createClass({
     render() {
         return (
-            <div>React CMS</div>
+            <div>React CMS Git Commit</div>
         );
 
     }
